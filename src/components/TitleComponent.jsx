@@ -12,7 +12,7 @@ function TitleComponent() {
         Name:
       </label>
       <input type="text" id="name-input" className="from-input" />
-      <button>ENVIAR</button>
+      <button>SEND</button>
     </div>
   );
 }
